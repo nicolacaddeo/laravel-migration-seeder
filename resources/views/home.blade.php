@@ -10,7 +10,11 @@
 </head>
 
 <body>
+    <h2> $currentTime: {{ $currentTime }}</h2>
 
+    <h2>$onlyDate: {{ $today }}</h2>
+
+    <h2>{{ $newFormat }}</h2>
 </body>
 
 </html>
